@@ -1,0 +1,1 @@
+import{j as a,a as r}from"./index-89ad16d2.js";import{m as e,H as o}from"./HeaderComp-3fe559b3.js";function d(){return a(e.div,{children:[r(o,{}),r("div",{className:"O4O4O",children:a("h1",{children:["404",r("br",{}),"Page ",r("br",{}),"Not Found"]})})]})}export{d as default};
