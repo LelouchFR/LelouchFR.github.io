@@ -1,0 +1,23 @@
+{
+  "short_name": "Baptiste's Portfolio",
+  "name": "Baptiste's Portfolio",
+  "description": "Mon portfolio pour me présenter au monde",
+  "icons": [
+      {
+          "src": "./src/img/Iconx460.png",
+          "type": "image/png",
+          "sizes": "460x460"
+      },
+      {
+          "src": "./src/img/Iconx550.png",
+          "type": "image/png",
+          "sizes": "550x550",
+          "purpose": "maskable"
+      }
+  ],
+  "start_url": "/",
+  "theme_color": "#d3d2cd",
+  "orientation": "any",
+  "background_color": "#17171d",
+  "display": "standalone"
+}
