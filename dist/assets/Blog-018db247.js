@@ -1,1 +1,0 @@
-import{j as a,a as i}from"./index-89ad16d2.js";import{m as o,H as t}from"./HeaderComp-3fe559b3.js";function m(){return a(o.div,{initial:{opacity:0},animate:{opacity:1},exit:{opacity:0},children:[i(t,{}),i("main",{className:"About",children:i("h2",{children:"Comming soon."})})]})}export{m as default};
